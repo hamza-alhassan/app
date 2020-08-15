@@ -13,7 +13,7 @@ class Player{
         this.audios[2] = "http://icepe1.infomaniak.ch/mc-doualiya.mp3";
         this.audios[3] = "http://radioliveb.rtv.gov.sy:8002/RadioShabab";
         this.audios[4] = "http://radioliveb.rtv.gov.sy:8008/RadioSouryana";
-        // this.audios[5] = "";
+        this.audios[5] = "http://yayin.firatfm.com:3065/;audio.mp3&bufferlength=2&volume=100&streamer=rtmp://wowza.firatfm.com:3270/shoutcast/firatfm&skin=https://www.firatfm.com/ekle/yanyesil/videosmartclassic.zip&autostart=true&stretching=fill";
         // this.audios[6] = "";
     
         this.names = [];
@@ -22,7 +22,7 @@ class Player{
         this.names[2] = "momantcarlo fm";
         this.names[3] = "RadioShabab Syria";
         this.names[4] = "Souryana Syria";
-        // this.names[5] = "";
+        this.names[5] = "TEST";
         // this.names[6] = "";
         
         this.numberAudio =0;
