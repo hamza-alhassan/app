@@ -1,0 +1,28 @@
+header{
+    width: 100%;
+    height: 350px;
+    background: rgb(253, 5, 5);
+    background-size: 100%;
+    text-align: center;
+    color: white;
+}
+nav img{
+    width: 340px;
+    /* border-radius: 50%; */
+    
+}
+/* nav{
+  transform: translateY(0%);
+  height:250px;
+  background: rgb(231, 209, 4);
+} */
+nav h2{
+font-size: 30px;
+margin: 0;
+}
+nav p{
+  font-size: 20px;
+  margin: 0;
+  font-style: italic;
+}
+
